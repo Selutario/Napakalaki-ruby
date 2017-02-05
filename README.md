@@ -1,1 +1,0 @@
-# Napakalaki-ruby
